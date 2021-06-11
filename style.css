@@ -5,12 +5,10 @@
 }
 
 body {
-    background-image: url('3324647.jpg');
+    background-image: url('sunshine.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position:unset;
-    background-size: 500px 600px;
-    background-position-x: 10%;
+    background-position:center;
     font-family: "Poppins", sans-serif;
     display: flex;
     flex-direction: column;
